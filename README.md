@@ -1,9 +1,10 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Welcome!%20I'm%20JinHyeok&animation=&fontColor=000000&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Welcome!&animation=&fontColor=000000&fontSize=40" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> <div align=center> 부산대학교 정보컴퓨터공학과 문진혁입니다.</div> </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <div align=center> 웹 개발자가 되고싶은 과제 하나는 기가막히게 해내는 남자  </li></div></li><div align=center> 꾸준히 공부해나가며 프론트, 백 모두 관심있는 개발자입니다. </div> </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> <div align=center> 🧑‍💻Introduction </div> </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <div align=center> 웹 개발자가 되고싶은 과제 하나는 기가막히게 해내는 남자  </li></div></li><div align=center> 꾸준히 공부해나가며 <strong> 프론트, 백 </strong> 모두 관심있는 개발자  </div>
+    <div align=center></div> 부산대학교 정보컴퓨터공학과 <strong> 문진혁 </strong> 입니다. <div> </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
