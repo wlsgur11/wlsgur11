@@ -11,8 +11,8 @@
             <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
                 <div align=center>
                     <dl>
-                        <dt>PNU Mini Bootcamp - FE</dt> <dd>(24/07/15 ~ 07/26)</dd>
-                        <dt>PNU Mini Bootcamp - BE</dt> <dd>(24/07/29 ~ 08/09)</dd>
+                        <dt>PNU Mini Bootcamp - FE  with. 멋쟁이사자처럼</dt> <dd>(24/07/15 ~ 07/26)</dd>
+                        <dt>PNU Mini Bootcamp - BE  with. 멋쟁이사자처럼</dt> <dd>(24/07/29 ~ 08/09)</dd>
                     </dl>
                 </div>
             </div>
