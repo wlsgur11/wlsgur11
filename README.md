@@ -12,7 +12,7 @@
                 <div align=center>
                     <dl>
                         <dt>PNU Mini Bootcamp - FE  with. 멋쟁이사자처럼</dt> <dd>(24/07/15 ~ 07/26)</dd>
-                        <dt>PNU Mini Bootcamp - BE  with. 멋쟁이사자처럼</dt> <dd>(24/07/29 ~ 08/09)</dd>
+                        <dt>PNU Mini Bootcamp - BE  with. 멋쟁이사자처럼 <a href="https://github.com/PNU-2024-07-TEAM2">projcet</a></dt> <dd>(24/07/29 ~ 08/09)</dd>
                     </dl>
                 </div>
             </div>
