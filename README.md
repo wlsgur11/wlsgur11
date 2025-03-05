@@ -28,6 +28,21 @@
                 </div>
             </div>
         </div>
+            <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> <div align=center> 📄Certificate </div> </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
+         <div align=center>
+                    <dl>
+                         <dt> OPIc - IM2 / 2025.02</dt> <dd> </dd>
+                         <dt> SQLD / 2024.06</dt> <dd>   </dd>
+                        <dt> 네트워크관리사 2급 / 2022.10</dt>  <dd>  </dd>
+                        <dt> 컴퓨터활용능력 2급  / 2022.06</dt> <dd>   </dd>
+                        <dt> 한식조리기능사 / 2021.03</dt> <dd>  </dd>
+                        <dt> </dt> <dd> </dd>
+                        <dt> </dt> <dd> </dd>
+                    </dl>
+                </div>
+    </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
