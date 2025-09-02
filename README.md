@@ -11,7 +11,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
          <div align=center>
                     <dl>
-                         <dt>제 6회 PNU 창의융합SW해커톤 - 장려상 (부산대학교 소프트웨어융합교육원장상)</dt> <dd>(2025-08-29)</dd>
+                         <dt>제 6회 PNU 창의융합SW해커톤 - 장려상 (부산대학교 소프트웨어융합교육원장상)  <a href="https://github.com/wlsgur11/SimLog">프로젝트 링크</a> </dt> <dd>(2025-08-29)</dd>
                          <dt>부산대 정보컴퓨터공학부 아이디어톤 - 3등 (정보컴퓨터공학부 학과장상)</dt> <dd>(2024-12-26)</dd>
                          <dt>제 3회 부산대 메디컬 해커톤 경진대회 - 우수상 (부산대학교 양산캠퍼스 산학협력본부장상)</dt> <dd>(2024-11-15)</dd>
                     </dl>
