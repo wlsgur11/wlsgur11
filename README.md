@@ -34,6 +34,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
          <div align=center>
                     <dl>
+                        <dt> 정보처리기사 / 2025.09</dt> <dd> </dd>
                          <dt> OPIc - IM2 / 2025.02</dt> <dd> </dd>
                          <dt> SQLD / 2024.06</dt> <dd>   </dd>
                         <dt> 네트워크관리사 2급 / 2022.10</dt>  <dd>  </dd>
