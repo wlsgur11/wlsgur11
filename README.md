@@ -22,7 +22,7 @@
                 <div align=center>
                     <dl>
                         <dt>2025 PNU Mini Bootcamp - 백엔드  with. 멋쟁이사자처럼 <a href="https://github.com/wlsgur11/2025_PNU_Bootcamp">당근마켓 클론코딩</a></dt> <dd>(25/02/03 ~ 02/14)</dd>
-                        <dt>2024 PNU Mini Bootcamp - 백엔드  with. 멋쟁이사자처럼 <a href="https://github.com/PNU-2024-07-TEAM2">에브리타임 클론코딩</a></dt> <dd>(24/07/29 ~ 08/09)</dd>
+                        <dt>2024 PNU Mini Bootcamp - 백엔드  with. 멋쟁이사자처럼 <a href="https://github.com/wlsgur11/minibootcamp">에브리타임 클론코딩</a></dt> <dd>(24/07/29 ~ 08/09)</dd>
                         <dt>2024 PNU Mini Bootcamp - 프론트엔드  with. 멋쟁이사자처럼</dt> <dd>(24/07/15 ~ 07/26)</dd>
                     </dl>
                 </div>
