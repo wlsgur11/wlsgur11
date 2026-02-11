@@ -17,7 +17,6 @@
 ### Contest
 | Date | Award | Description | Repo |
 | :--- | :--- | :--- | :--- |
-| 2025.08.29 | **KSPO 국민체육진흥공단 공공데이터 경진대회 참가** | - | [Runner-Type](https://github.com/sunnypark87/2025-KSPO-Public-Data-Contest) |
 | 2025.08.29 | **제 6회 PNU 창의융합SW해커톤 장려상** | 소프트웨어융합교육원장상 | [SimLog 프로젝트](https://github.com/wlsgur11/SimLog) | 
 | 2024.12.26 | **부산대 정보컴퓨터공학부 아이디어톤 3등** | 정보컴퓨터공학부 학과장상 | - |
 | 2024.11.15 | **제 3회 부산대 메디컬 해커톤 경진대회 우수상** | 산학협력본부장상 | - |
