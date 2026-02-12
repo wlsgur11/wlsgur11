@@ -10,6 +10,7 @@
 ### Experience
 | Period | Activity | Details |
 | :--- | :--- | :--- |
+| 2026.02.06 ~ 진행중 | **부산대 AI융합교육원 코드플레이스 개발팀** | [코드플레이스](https://github.com/pnu-code-place/code-place) |
 | 2025.02.03 ~ 02.14 | **2025 PNU Mini Bootcamp (Backend)** | [당근마켓 클론 코딩](https://github.com/wlsgur11/2025_PNU_Bootcamp) |
 | 2024.07.29 ~ 08.09 | **2024 PNU Mini Bootcamp (Backend)** | [에브리타임 클론 코딩](https://github.com/wlsgur11/minibootcamp) |
 | 2024.07.15 ~ 07.26 | **2024 PNU Mini Bootcamp (Frontend)** | 멋쟁이사자처럼 주관 |
